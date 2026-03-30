@@ -1,0 +1,5 @@
+{
+  "name": "QR Bill Viewer",
+  "description": "A mobile-friendly app to view bill details and product expiry status via QR code scanning.",
+  "requestFramePermissions": ["camera"]
+}
